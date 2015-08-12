@@ -1,0 +1,28 @@
+{
+  "name": "svg-font-parser",
+  "version": "1.0.0",
+  "description": "SVG font parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyjansson/svg-font-parser.git"
+  },
+  "keywords": [
+    "svg",
+    "font",
+    "parser"
+  ],
+  "author": "Andy Jansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andyjansson/svg-font-parser/issues"
+  },
+  "homepage": "https://github.com/andyjansson/svg-font-parser#readme",
+  "dependencies": {
+    "es6-promise": "^3.0.2",
+    "xmldom": "^0.1.19"
+  }
+}
