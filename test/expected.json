@@ -1,0 +1,34 @@
+[
+	{
+		"family": "SourceSansPro-Regular",
+		"weight": ["400"],
+		"stretch": ["normal"],
+		"unitsPerEm": 2048,
+		"panose": {
+			"familyType": "Text and display",
+			"serifStyle": "Normal sans serif",
+			"weight": "Book",
+			"proportion": "Modern",
+			"contrast": "Very low",
+			"strokeVariation": "Gradual/vertical",
+			"armStyle": "Straight arms/wedge",
+			"letterform": "Normal/contact",
+			"midline": "Standard/trimmed",
+			"xHeight": "Constant/large"
+		},
+		"ascent": 1536,
+		"descent": -512,
+		"xHeight": 995,
+		"capHeight": 1343,
+		"boundingBox": [ -393, -662, 2376, 1950],
+		"underline": {
+			"thickness": 102,
+			"position": -102
+		},
+		"unicodeRange": ["U+0020-FEFF"],
+		"horizontal": {
+			"advance": 1024
+		},
+		"id": "acb2ff9f1528a62353501911e112e2e2"
+	}
+]

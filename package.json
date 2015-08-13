@@ -4,7 +4,7 @@
   "description": "SVG font parser",
   "main": "index.js",
   "scripts": {
-    "test": "node test/test.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,8 @@
   "dependencies": {
     "es6-promise": "^3.0.2",
     "xmldom": "^0.1.19"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
   }
 }
